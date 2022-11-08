@@ -1,4 +1,4 @@
-
+:
 // Duong Van Phi PC06060
 #include <stdio.h>
 
@@ -53,6 +53,8 @@ int main() {
   printf("\nNganh: %s", Nganh);
   printf("\nChuyen nghanh: %s", Chuyennganh);
   printf("\nSo dien thoai: %s", Sdt);
+
+  printf("Neu muon theo nghe thi khi moi hoc lap trinh, co cam thay kho khan, chan nan hay co gang nhieu hon chu dung bo cuoc, dung cup tiet, tu lam bai tap chu dung copy cua ban");
 
   return 0;
 }
