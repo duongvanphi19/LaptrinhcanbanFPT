@@ -1,4 +1,3 @@
-:
 // Duong Van Phi PC06060
 #include <stdio.h>
 
