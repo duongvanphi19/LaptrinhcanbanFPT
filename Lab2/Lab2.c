@@ -29,7 +29,7 @@ int main() {
   printf("Nhap ban kinh hinh tron: ");
   scanf("%d", & bk);
 
-  printf("\nHinh tron ban kinh=%d\nChu vi: %f\nDien tich: %f", bk, 2 * pi * bk, 2 * pi * bk * bk);
+  printf("\nHinh tron ban kinh=%d\nChu vi: %f\nDien tich: %f", bk, 2 * pi * bk, pi * bk * bk);
 
   //2.4: Tinh dien trung binh Toan, Ly, Hoa
 
